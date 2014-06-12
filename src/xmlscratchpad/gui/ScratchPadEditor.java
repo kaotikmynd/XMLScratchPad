@@ -4,18 +4,18 @@
  * and open the template in the editor.
  */
 
-package xmlscratchpad;
+package xmlscratchpad.gui;
 
 /**
  *
  * @author Lucas
  */
-public class ScratchPad extends javax.swing.JPanel {
+public class ScratchPadEditor extends javax.swing.JPanel {
 
 	/**
 	 * Creates new form ScratchPad
 	 */
-	public ScratchPad() {
+	public ScratchPadEditor() {
 		initComponents();
 	}
 
